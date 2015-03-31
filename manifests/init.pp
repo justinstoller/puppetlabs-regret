@@ -36,5 +36,5 @@
 # Copyright 2015 Your name here, unless otherwise noted.
 #
 class regret {
-  notify { 'Now with an actual resource!': }
+  notify { "this was a horrible mistake": }
 }
