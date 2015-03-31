@@ -36,5 +36,5 @@
 # Copyright 2015 Your name here, unless otherwise noted.
 #
 class regret {
-  notify { "this was a horrible mistake": }
+  notify { 'What have I done with my life?': }
 }
